@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ai Là Triệu Phú</title>
+  <link rel="stylesheet" href="./style.css" />
+</head>
+<body>
+
+  <!-- ============================================================
+       LAYOUT CHÍNH
+  ============================================================ -->
+  <div class="container">
+
+    <!-- ══════════════════════════════════════════════════════════
+         CỘT TRÁI (75%)
+    ══════════════════════════════════════════════════════════ -->
+    <main class="col-main">
+
+      <!-- ── HEADER ─────────────────────────────────────────── -->
+      <header class="section header-section">
+        <h1 class="game-title">AI LÀ TRIỆU PHÚ</h1>
+
+        <div class="header-controls">
+          <!-- Upload câu hỏi -->
+          <div class="upload-group">
+            <label class="btn btn-secondary" for="file-upload">📂 Tải câu hỏi (.txt)</label>
+            <input type="file" id="file-upload" accept=".txt" hidden />
+            <button class="btn btn-secondary" id="btn-sample">⬇ Tải file mẫu</button>
+            <span class="upload-hint" id="upload-hint">Dùng câu hỏi mặc định</span>
+          </div>
+
+          <!-- Nút hành động -->
+          <div class="action-buttons">
+            <button class="btn btn-primary" id="btn-start">▶ Bắt đầu chơi</button>
+            <button class="btn btn-secondary" id="btn-music">🎵 Nhạc: TẮT</button>
+            <label class="btn btn-secondary" for="bgm-upload" title="Chọn file nhạc nền .mp3 từ máy tính">🎶 Chọn nhạc (.mp3)</label>
+            <input type="file" id="bgm-upload" accept=".mp3,audio/*" hidden />
+          </div>
+
+          <!-- Quỹ tiền thưởng -->
+          <div class="prize-fund">
+            <span class="prize-label">Quỹ tiền thưởng tích lũy:</span>
+            <span class="prize-amount" id="prize-fund">0 VNĐ</span>
+            <button class="btn btn-gold" id="btn-claim">🏆 Nhận thưởng</button>
+          </div>
+        </div>
+      </header>
+
+      <!-- ── SÂN KHẤU ────────────────────────────────────────── -->
+      <section class="section stage-section">
+
+        <!-- Số câu + mức thưởng hiện tại -->
+        <div class="stage-info">
+          <span class="stage-badge" id="question-number">Câu 1</span>
+          <span class="stage-prize" id="current-prize">100 VNĐ</span>
+        </div>
+
+        <!-- Khung câu hỏi -->
+        <div class="question-box" id="question-text">
+          Nhấn <strong>"Bắt đầu chơi"</strong> để bắt đầu game.
+          <br /><small>Hãy tải file câu hỏi .txt trước.</small>
+        </div>
+
+        <!-- 4 ô đáp án -->
+        <div class="answers-grid">
+          <button class="answer-btn" id="ans-A" data-key="A">
+            <span class="ans-label">A</span>
+            <span class="ans-text" id="ans-A-text">—</span>
+          </button>
+          <button class="answer-btn" id="ans-B" data-key="B">
+            <span class="ans-label">B</span>
+            <span class="ans-text" id="ans-B-text">—</span>
+          </button>
+          <button class="answer-btn" id="ans-C" data-key="C">
+            <span class="ans-label">C</span>
+            <span class="ans-text" id="ans-C-text">—</span>
+          </button>
+          <button class="answer-btn" id="ans-D" data-key="D">
+            <span class="ans-label">D</span>
+            <span class="ans-text" id="ans-D-text">—</span>
+          </button>
+        </div>
+      </section>
+
+      <!-- ── QUYỀN TRỢ GIÚP ─────────────────────────────────── -->
+      <section class="section lifeline-section">
+        <div class="lifelines">
+          <button class="lifeline-btn" id="ll-5050" title="50:50">
+            <span class="ll-icon">50:50</span>
+          </button>
+          <button class="lifeline-btn" id="ll-audience" title="Hỏi ý kiến khán giả">
+            <span class="ll-icon">👥</span>
+            <span class="ll-text">Hỏi khán giả</span>
+          </button>
+          <button class="lifeline-btn" id="ll-phone" title="Gọi điện thoại">
+            <span class="ll-icon">📞</span>
+            <span class="ll-text">Gọi điện thoại</span>
+          </button>
+        </div>
+
+        <button class="btn btn-danger" id="btn-stop">
+          🛑 Dừng cuộc chơi (Bảo toàn tiền thưởng)
+        </button>
+      </section>
+
+    </main><!-- /col-main -->
+
+    <!-- ══════════════════════════════════════════════════════════
+         CỘT PHẢI (25%) — THANG TIỀN THƯỞNG
+    ══════════════════════════════════════════════════════════ -->
+    <aside class="col-side">
+      <div class="prize-ladder">
+        <h2 class="ladder-title">Thang Thưởng</h2>
+        <ol class="ladder-list" id="ladder-list">
+          <!--
+            Các mục được tạo động bởi JS (script.js).
+            Dưới đây là danh sách tĩnh fallback.
+          -->
+          <li class="ladder-item milestone" data-q="15">Câu 15 — <strong>500 VNĐ</strong></li>
+          <li class="ladder-item"           data-q="14">Câu 14 — <strong>100 VNĐ</strong></li>
+          <li class="ladder-item"           data-q="13">Câu 13 — <strong>100 VNĐ</strong></li>
+          <li class="ladder-item"           data-q="12">Câu 12 — <strong>100 VNĐ</strong></li>
+          <li class="ladder-item"           data-q="11">Câu 11 — <strong>100 VNĐ</strong></li>
+          <li class="ladder-item milestone" data-q="10">Câu 10 — <strong>500 VNĐ</strong></li>
+          <li class="ladder-item"           data-q="9"> Câu 9  — <strong>100 VNĐ</strong></li>
+          <li class="ladder-item"           data-q="8"> Câu 8  — <strong>100 VNĐ</strong></li>
+          <li class="ladder-item"           data-q="7"> Câu 7  — <strong>100 VNĐ</strong></li>
+          <li class="ladder-item"           data-q="6"> Câu 6  — <strong>100 VNĐ</strong></li>
+          <li class="ladder-item milestone" data-q="5"> Câu 5  — <strong>500 VNĐ</strong></li>
+          <li class="ladder-item"           data-q="4"> Câu 4  — <strong>100 VNĐ</strong></li>
+          <li class="ladder-item"           data-q="3"> Câu 3  — <strong>100 VNĐ</strong></li>
+          <li class="ladder-item"           data-q="2"> Câu 2  — <strong>100 VNĐ</strong></li>
+          <li class="ladder-item"           data-q="1"> Câu 1  — <strong>100 VNĐ</strong></li>
+        </ol>
+      </div>
+    </aside>
+
+  </div><!-- /container -->
+
+  <!-- ============================================================
+       MODALS (ẩn mặc định)
+  ============================================================ -->
+
+  <!-- Modal trợ giúp (50:50 / Hỏi khán giả / Gọi điện) -->
+  <div class="modal-overlay" id="modal-lifeline" role="dialog" aria-modal="true" aria-labelledby="modal-ll-title">
+    <div class="modal">
+      <h2 class="modal-title" id="modal-ll-title">Trợ giúp</h2>
+      <div class="modal-body" id="modal-ll-body">
+        <!-- Nội dung điền bởi JS -->
+      </div>
+      <button class="btn btn-primary modal-close" id="modal-ll-close">Đóng</button>
+    </div>
+  </div>
+
+  <!-- Modal nhận thưởng / kết thúc game -->
+  <div class="modal-overlay" id="modal-reward" role="dialog" aria-modal="true" aria-labelledby="modal-rw-title">
+    <div class="modal modal--reward">
+      <div class="modal-trophy" id="modal-rw-trophy">🏆</div>
+      <h2 class="modal-title" id="modal-rw-title">Chúc mừng!</h2>
+      <div class="modal-body" id="modal-rw-body">
+        Bạn đã nhận được <strong id="modal-rw-amount">0 VNĐ</strong>
+      </div>
+      <div style="display:flex;gap:10px;justify-content:center;flex-wrap:wrap;margin-top:4px">
+        <button class="btn btn-gold modal-close" id="modal-rw-close">▶ Chơi lại</button>
+        <button class="btn btn-primary" id="modal-rw-claim">🏆 Nhận thưởng</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Modal nhận thưởng qua Zalo -->
+  <div class="modal-overlay" id="modal-zalo" role="dialog" aria-modal="true" aria-labelledby="modal-zalo-title">
+    <div class="modal modal--reward">
+      <div class="modal-trophy">💰</div>
+      <h2 class="modal-title" id="modal-zalo-title">Nhận thưởng qua Zalo</h2>
+      <div class="modal-body" id="modal-zalo-body">
+        <!-- Điền bởi JS -->
+      </div>
+      <button class="btn btn-gold modal-close" id="modal-zalo-close">Đóng</button>
+    </div>
+  </div>
+
+  <!-- Nhạc nền — phát từ file bgm.mp3 trong thư mục dự án -->
+  <audio id="bgm" loop preload="auto" src="./bgm.mp3"></audio>
+
+  <script src="./script.js"></script>
+</body>
+</html>

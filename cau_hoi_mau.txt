@@ -1,0 +1,153 @@
+# File câu hỏi Ai Là Triệu Phú
+# Định dạng: Câu hỏi | Đáp án A | Đáp án B | Đáp án C | Đáp án D | Đáp án đúng (A/B/C/D)
+# Dòng bắt đầu bằng # là chú thích, sẽ bị bỏ qua.
+Đội tuyển bóng đá nam quốc gia nào giành chức vô địch FIFA World Cup năm 2022 tại Qatar? | Pháp | Argentina | Brazil | Croatia | B
+Cầu thủ nào giữ kỷ lục giành nhiều danh hiệu Quả bóng vàng (Ballon d'Or) nhất lịch sử bóng đá thế giới? | Cristiano Ronaldo | Michel Platini | Lionel Messi | Johan Cruyff | C
+Đội tuyển bóng đá nam Việt Nam lần đầu tiên vô địch giải AFF Cup vào năm nào? | 2008 | 2018 | 2022 | 1998 | A
+Huấn luyện viên trưởng dẫn dắt Đội tuyển Việt Nam giành ngôi Á quân U23 châu Á năm 2018 tại Thường Châu là ai? | Henrique Calisto | Park Hang-seo | Philippe Troussier | Kim Sang-sik | B
+Câu lạc bộ bóng đá nào giàu thành tích nhất lịch sử giải đấu UEFA Champions League (Cúp C1 châu Âu)? | AC Milan | Bayern Munich | Liverpool | Real Madrid | D
+Mỗi hiệp đấu chính thức của một trận bóng đá 11 người tiêu chuẩn kéo dài bao nhiêu phút (không tính bù giờ)? | 40 phút | 45 phút | 50 phút | 35 phút | B
+Sân vận động Old Trafford là sân nhà của câu lạc bộ bóng đá nào tại giải Ngoại hạng Anh? | Manchester City | Arsenal | Manchester United | Chelsea | C
+Quốc gia nào nắm giữ kỷ lục 5 lần vô địch giải bóng đá vô địch thế giới (FIFA World Cup)? | Đức | Ý | Argentina | Brazil | D
+Trong môn bóng đá, chấm phạt đền (Penalty) cách đường vôi khung thành bao nhiêu mét? | 9 mét | 11 mét | 13 mét | 16.5 mét | B
+Cầu thủ nào của Đội tuyển Việt Nam đã ghi bàn thắng quyết định ở trận chung kết lượt về AFF Cup 2008 trên sân Mỹ Đình? | Nguyễn Quang Hải | Lê Công Vinh | Nguyễn Anh Đức | Phạm Tuấn Hải | B
+Giải vô địch bóng đá châu Âu cấp đội tuyển quốc gia (UEFA Euro) thông thường được tổ chức định kỳ mấy năm một lần? | 2 năm | 3 năm | 4 năm | 5 năm | C
+Đội tuyển quốc gia nào đã lên ngôi vô địch giải bóng đá Euro 2024 tổ chức tại Đức? | Anh | Pháp | Tây Ban Nha | Đức | C
+Trong bóng đá, một cầu thủ ghi được 3 bàn thắng trong cùng một trận đấu được gọi bằng thuật ngữ nào? | Cú đúp | Hat-trick | Poker | Repoker | B
+Cầu thủ Nguyễn Quang Hải từng lập siêu phẩm đá phạt có biệt danh 'Cầu vồng trong tuyết' vào lưới đội tuyển U23 nào năm 2018? | U23 Qatar | U23 Iraq | U23 Uzbekistan | U23 Hàn Quốc | C
+Sân vận động Quốc gia Mỹ Đình (Hà Nội) được khánh thành và đưa vào sử dụng từ năm nào để phục vụ SEA Games 22? | 2001 | 2003 | 2005 | 2007 | B
+Câu lạc bộ bóng đá Barcelona có sân nhà truyền thống mang tên là gì? | Santiago Bernabéu | Camp Nou | Wanda Metropolitano | Mestalla | B
+Huyền thoại bóng đá Pelé là người mang quốc tịch của quốc gia nào? | Argentina | Bồ Đào Nha | Brazil | Uruguay | C
+Đội tuyển bóng đá nữ Việt Nam lần đầu tiên giành quyền tham dự Vòng chung kết FIFA World Cup nữ vào năm nào? | 2015 | 2019 | 2023 | 2021 | C
+Theo luật bóng đá FIFA, mỗi đội bóng trên sân 11 người tối thiểu phải còn bao nhiêu cầu thủ thì trận đấu mới được tiếp tục? | 6 cầu thủ | 7 cầu thủ | 8 cầu thủ | 9 cầu thủ | B
+Số nguyên tố chẵn duy nhất trong tập hợp các số tự nhiên là số nào? | 0 | 2 | 4 | 6 | B
+Tổng số đo ba góc trong một tam giác phẳng theo hình học Euclid luôn bằng bao nhiêu độ? | 90 độ | 180 độ | 270 độ | 360 độ | B
+Hằng số toán học Pi (tỷ số giữa chu vi và đường kính của một đường tròn) có giá trị xấp xỉ bằng bao nhiêu? | 2.718 | 3.1416 | 1.618 | 1.414 | B
+Trong tam giác vuông, định lý nào phát biểu rằng bình phương cạnh huyền bằng tổng bình phương hai cạnh góc vuông? | Định lý Thales | Định lý Viète | Định lý Pythagore | Định lý Fermat | C
+Đạo hàm của hàm số f(x) = x² theo biến x là biểu thức nào sau đây? | x | 2x | x³/3 | 2 | B
+Trong chương trình Giải tích, nguyên hàm của hàm số f(x) = cos(x) là hàm số nào? | -sin(x) + C | sin(x) + C | tan(x) + C | -cos(x) + C | B
+Giá trị của giai thừa 5! (năm giai thừa) bằng bao nhiêu? | 25 | 60 | 120 | 240 | C
+Giá trị của biểu thức logarit thập phân log₁₀(1000) bằng bao nhiêu? | 2 | 3 | 10 | 100 | B
+Nhà toán học người Việt Nam nào đã xuất sắc giành Huy chương Fields cao quý vào năm 2010? | Hoàng Tụy | Ngô Bảo Châu | Lê Văn Thiêm | Phan Đình Diệu | B
+Phương trình bậc hai ax² + bx + c = 0 (với a khác 0) có hai nghiệm thực phân biệt khi biệt thức Delta (Δ = b² - 4ac) thỏa mãn điều kiện nào? | Δ < 0 | Δ = 0 | Δ > 0 | Δ ≤ 0 | C
+Trong hình học không gian, khối lập phương có tất cả bao nhiêu mặt đều là hình vuông? | 4 mặt | 6 mặt | 8 mặt | 12 mặt | B
+Trong dãy số Fibonacci kinh điển (1, 1, 2, 3, 5, 8, 13, ...), số hạng tiếp theo ngay sau số 13 là số nào? | 18 | 20 | 21 | 26 | C
+Với mọi góc lượng giác α bất kỳ, giá trị của biểu thức sin²(α) + cos²(α) luôn bằng bao nhiêu? | 0 | 1 | 2 | -1 | B
+Số tự nhiên nào nhỏ nhất có 3 chữ số khác nhau? | 100 | 101 | 102 | 123 | C
+Công thức tính diện tích của một hình tròn có bán kính R là gì? | 2πR | πR² | πR/2 | 4πR² | B
+Giá trị của 2 lũy thừa 10 (2¹⁰) bằng bao nhiêu? | 512 | 1000 | 1024 | 2048 | C
+Một hình đa giác đều có 6 cạnh bằng nhau và 6 góc bằng nhau được gọi là hình gì? | Ngũ giác đều | Lục giác đều | Bát giác đều | Tứ giác đều | B
+Cơ số của logarit tự nhiên (ký hiệu là ln) là hằng số toán học nào? | Số π (Pi) | Số e (Euler) | Số φ (Tỷ lệ vàng) | Số 10 | B
+Trong thống kê và xác suất, khi tung một đồng xu đồng chất và cân đối một lần, xác suất xuất hiện mặt ngửa là bao nhiêu? | 0.25 | 0.5 | 0.75 | 1.0 | B
+Khoa Tử Vi Đẩu Số truyền thống sử dụng lá số gồm tất cả bao nhiêu cung chính trên địa bàn? | 8 cung | 10 cung | 12 cung | 14 cung | C
+Trong hệ thống 12 Địa Chi của Tử Vi và lịch pháp Á Đông, Địa Chi đứng đầu tiên là chi nào? | Sửu | Dần | Tý | Mão | C
+Trong hệ thống 10 Thiên Can, Thiên Can đứng đầu tiên là can nào? | Ất | Giáp | Bính | Đinh | B
+Trong Tử Vi Đẩu Số, chòm sao đứng đầu thống lĩnh các chính tinh (được mệnh danh là Đế Tinh) là sao nào? | Thiên Phủ | Tử Vi | Thái Dương | Vũ Khúc | B
+Lá số Tử Vi Đẩu Số chuẩn có tổng cộng bao nhiêu Chính Tinh được an vào 12 cung? | 10 Chính Tinh | 12 Chính Tinh | 14 Chính Tinh | 18 Chính Tinh | C
+Trong lá số Tử Vi, cung dùng để xem xét về người phối ngẫu (vợ hoặc chồng) và đời sống hôn nhân được gọi là cung gì? | Cung Phúc Đức | Cung Phu Thê | Cung Tử Tức | Cung Điền Trạch | B
+Trong lá số Tử Vi, cung phản ánh về nhà cửa, đất đai, bất động sản và môi trường sinh sống được gọi là cung gì? | Cung Tài Bạch | Cung Quan Lộc | Cung Điền Trạch | Cung Thiên Di | C
+Tam hợp bao gồm 3 chính tinh Sát - Phá - Tham trong Tử Vi là viết tắt của bộ 3 sao nào? | Thất Sát - Phá Quân - Tham Lang | Kình Dương - Phá Quân - Tham Lang | Thất Sát - Thiên Phủ - Tham Lang | Vũ Khúc - Phá Quân - Tham Lang | A
+Trong quy luật Ngũ Hành Tương Sinh, hành nào sinh ra hành Thủy? | Hành Mộc | Hành Hỏa | Hành Thổ | Hành Kim | D
+Trong quy luật Ngũ Hành Tương Khắc, hành Thủy khắc trực tiếp hành nào sau đây? | Hành Kim | Hành Mộc | Hành Hỏa | Hành Thổ | C
+Trong Tử Vi Đẩu Số, bộ Tứ Hóa bao gồm 4 sao biến hóa nào? | Hóa Lộc, Hóa Quyền, Hóa Khoa, Hóa Kỵ | Hóa Lộc, Hóa Tài, Hóa Quan, Hóa Ấn | Hóa Phúc, Hóa Lộc, Hóa Thọ, Hóa Khang | Hóa Quyền, Hóa Ấn, Hóa Mã, Hóa Lộc | A
+Trong Tử Vi, hai cát tinh văn chương nổi tiếng chủ về học vấn, thi cử và khoa bảng là cặp sao nào? | Tả Phù - Hữu Bật | Văn Xương - Văn Khúc | Kình Dương - Đà La | Địa Không - Địa Kiếp | B
+Trong lá số Tử Vi, cung dùng để xem xét về đường công danh, sự nghiệp và chức vụ được gọi là cung gì? | Cung Quan Lộc | Cung Tật Ách | Cung Phụ Mẫu | Cung Huynh Đệ | A
+Cặp sao sát tinh Địa Không và Địa Kiếp trong Tử Vi Đẩu Số thường được gọi tắt là bộ sao gì? | Kình Đà | Hỏa Linh | Không Kiếp | Hình Riêu | C
+Trong vòng Trường Sinh của Tử Vi Đẩu Số có tất cả bao nhiêu sao tương ứng với 12 giai đoạn sinh trưởng và biến dịch? | 8 sao | 9 sao | 10 sao | 12 sao | D
+Trong lá số Tử Vi, cung dùng để luận đoán về tiền bạc, thu nhập và khả năng quản lý tài chính là cung nào? | Cung Tài Bạch | Cung Nô Bộc | Cung Tử Tức | Cung Phụ Mẫu | A
+Tam hợp Cục trong Tử Vi Đẩu Số gồm 5 cục theo Ngũ Hành (Thủy nhị cục, Mộc tam cục, Kim tứ cục, Thổ ngũ cục, Hỏa lục cục). Số đi kèm tên Cục dùng để xác định yếu tố nào trước tiên? | Số tuổi kết hôn | Số tuổi bắt đầu Đại Vận đầu tiên và vị trí an sao Tử Vi | Số lượng anh chị em | Số năm làm việc | B
+Trong 12 Địa Chi, nhóm Tam Hợp 'Thân - Tý - Thìn' thuộc hành cục nào trong Ngũ Hành? | Hỏa cuộc | Mộc cuộc | Thủy cuộc | Kim cuộc | C
+Trong Tử Vi Đẩu Số, sao Thái Dương tượng trưng cho hình ảnh nào trong tự nhiên? | Mặt Trăng | Mặt Trời | Sao Bắc Đẩu | Sao Kim | B
+Tên gọi tiền thân của Trường Đại học Phenikaa khi mới thành lập vào năm 2007 là gì? | Trường Đại học Đông Đô | Trường Đại học Thành Tây | Trường Đại học Hòa Bình | Trường Đại học Đại Nam | B
+Đại học Phenikaa có trụ sở chính đặt tại phường Dương Nội, thuộc khu vực quận (cũ) nào của Thủ đô Hà Nội? | Quận Cầu Giấy | Quận Đống Đa | Quận Hà Đông | Quận Hai Bà Trưng | C
+Mã tuyển sinh đại học chính quy của Đại học Phenikaa là mã nào sau đây? | DTA | PKA | PHK | TTD | B
+Trường Đại học Thành Tây chính thức được đổi tên thành Trường Đại học Phenikaa theo Quyết định số 1609/QĐ-TTg vào ngày tháng năm nào? | 10/10/2017 | 21/11/2018 | 15/04/2020 | 20/11/2019 | B
+Ngày 15/4/2025, Thủ tướng Chính phủ đã ban hành Quyết định số 775/QĐ-TTg chuyển đổi mô hình của Trường Đại học Phenikaa thành mô hình nào? | Học viện Phenikaa | Đại học Phenikaa | Viện Đại học Phenikaa | Khu Đại học Phenikaa | B
+Tập đoàn công nghệ và công nghiệp nào là nhà đầu tư chiến lược phát triển hệ sinh thái Đại học Phenikaa từ năm 2017? | Tập đoàn Phượng Hoàng Xanh A&A (Phenikaa Group) | Tập đoàn Vingroup | Tập đoàn FPT | Tập đoàn Viettel | A
+Giá trị cốt lõi trong triết lý giáo dục của Đại học Phenikaa được gói gọn trong 3 từ khóa nào? | Tôn trọng - Sáng tạo - Phản biện | Nhân văn - Đổi mới - Hội nhập | Tri thức - Đạo đức - Sáng tạo | Tiên phong - Bản lĩnh - Trách nhiệm | A
+Tiền thân của Đại học Phenikaa được thành lập ngày 10/10/2007 theo Quyết định số 1368/QĐ-TTg. Vì vậy ngày truyền thống kỷ niệm thành lập trường hàng năm là ngày nào? | 20/11 | 10/10 | 21/11 | 26/03 | B
+Chủ tịch Hội đồng Tập đoàn Phenikaa kiêm người đặt nền móng tái cấu trúc toàn diện Đại học Phenikaa là vị Tiến sĩ nào? | TS. Hồ Xuân Năng | GS.TS. Phạm Thành Huy | PGS.TS. Nguyễn Phú Khánh | TS. Đinh Ngọc Hiện | A
+Con đường nơi đặt cổng chính khuôn viên Đại học Phenikaa tại phường Dương Nội, Hà Nội mang tên danh nhân nào? | Đường Nguyễn Trãi | Đường Nguyễn Trác | Đường Tố Hữu | Đường Lê Trọng Tấn | B
+Trong giai đoạn 2020–2023, Đại học Phenikaa đã nhiều năm liên tiếp dẫn đầu các trường đại học và viện nghiên cứu tại Việt Nam trên bảng xếp hạng công bố khoa học quốc tế uy tín nào? | Bảng xếp hạng Nature Index | Bảng xếp hạng Shanghai ARWU | Bảng xếp hạng Webometrics | Bảng xếp hạng US News | A
+Năm 2024, Đại học Phenikaa đạt mức xếp hạng bao nhiêu sao theo Hệ thống đối sánh chất lượng giáo dục đại học UPM (University Performance Metrics)? | 3 Sao | 4 Sao | 5 Sao | 6 Sao | C
+Viện Nghiên cứu Tiên tiến Phenikaa (nơi quy tụ nhiều nhà khoa học cơ bản hàng đầu của Đại học Phenikaa) có tên viết tắt tiếng Anh là gì? | PRATI | PIAS | PUNI | PTECH | B
+Khi chuyển đổi sang mô hình Đại học đa ngành vào giai đoạn 2024–2025, Đại học Phenikaa đã thành lập 5 trường thành viên đầu tiên gồm Kỹ thuật, CNTT, Kinh tế, Y - Dược và trường nào? | Trường Ngoại ngữ - Khoa học xã hội | Trường Kiến trúc - Xây dựng | Trường Nông - Lâm - Ngư nghiệp | Trường Nghệ thuật biểu diễn | A
+Khối ngành Khoa học Sức khỏe của Đại học Phenikaa (Trường Y - Dược Phenikaa) đào tạo các ngành tiêu biểu nào sau đây? | Y khoa, Dược học, Điều dưỡng, Răng - Hàm - Mặt, Y học cổ truyền | Chỉ đào tạo Dược học và Điều dưỡng | Chỉ đào tạo Thú y và Công nghệ sinh học | Chỉ đào tạo Y tế công cộng | A
+Năm 2024, để đón đầu xu thế công nghệ cao của Việt Nam, Đại học Phenikaa đã thành lập trung tâm đào tạo chuyên sâu trong lĩnh vực chiến lược nào? | Trung tâm Đào tạo Thiết kế Vi mạch Bán dẫn | Trung tâm Công nghệ Vũ trụ | Trung tâm Khai khoáng Biển sâu | Trung tâm Năng lượng Hạt nhân | A
+Mô hình hệ sinh thái 3 Nhà gắn kết chặt chẽ tại Phenikaa bao gồm 3 trụ cột nào? | Nhà nước - Nhà nông - Nhà doanh nghiệp | Nhà trường (Giáo dục) - Nhà khoa học (Nghiên cứu) - Doanh nghiệp (Sản xuất kinh doanh) | Nhà đầu tư - Nhà phân phối - Nhà tiêu dùng | Nhà trường - Gia đình - Xã hội | B
+Trang thông tin điện tử (website) chính thức của Đại học Phenikaa có tên miền là gì? | phenikaa-uni.edu.vn | phenikaa.com.vn | thanhtay.edu.vn | pka.gov.vn | A
+Bệnh viện thực hành quy mô lớn nằm trong hệ sinh thái y tế và đào tạo khối ngành sức khỏe của Phenikaa có tên gọi phổ biến là gì? | Bệnh viện Đại học Phenikaa (PhenikaaMec) | Bệnh viện Bạch Mai cơ sở 2 | Bệnh viện Đa khoa Hà Đông | Bệnh viện Quân y 103 | A
+Đỉnh núi Fansipan - 'Nóc nhà Đông Dương' với độ cao 3.147,3m nằm trên dãy núi nào của Việt Nam? | Dãy Trường Sơn | Dãy Hoàng Liên Sơn | Dãy Ngân Sơn | Dãy Bắc Sơn | B
+Tỉnh nào có diện tích tự nhiên lớn nhất Việt Nam (trước các đợt sáp nhập hành chính)? | Thanh Hóa | Nghệ An | Gia Lai | Sơn La | B
+Điểm cực Bắc trên đất liền của Tổ quốc Việt Nam nằm tại xã Lũng Cú thuộc tỉnh nào? | Cao Bằng | Lào Cai | Hà Giang | Lai Châu | C
+Quần đảo Trường Sa trực thuộc sự quản lý hành chính của tỉnh/thành phố nào của Việt Nam? | Thành phố Đà Nẵng | Tỉnh Khánh Hòa | Tỉnh Bình Thuận | Tỉnh Bà Rịa - Vũng Tàu | B
+Quần đảo Hoàng Sa trực thuộc sự quản lý hành chính của tỉnh/thành phố nào của Việt Nam? | Tỉnh Quảng Ngãi | Tỉnh Quảng Nam | Thành phố Đà Nẵng | Tỉnh Thừa Thiên Huế | C
+Con sông nào dài nhất thế giới chảy qua khu vực Đông Bắc châu Phi và đổ ra Địa Trung Hải? | Sông Amazon | Sông Nile | Sông Trường Giang | Sông Mississippi | B
+Đại dương nào có diện tích lớn nhất và độ sâu trung bình lớn nhất trên Trái Đất? | Đại Tây Dương | Ấn Độ Dương | Thái Bình Dương | Bắc Băng Dương | C
+Đường bờ biển của đất nước Việt Nam kéo dài từ Móng Cái (Quảng Ninh) đến Hà Tiên (Kiên Giang) dài khoảng bao nhiêu km? | 1.960 km | 2.540 km | 3.260 km | 4.120 km | C
+Hang động tự nhiên lớn nhất thế giới Sơn Đoòng nằm trong Vườn quốc gia Phong Nha - Kẻ Bàng thuộc tỉnh nào? | Hà Tĩnh | Quảng Bình | Quảng Trị | Nghệ An | B
+Hòn đảo có diện tích lớn nhất Việt Nam là đảo nào? | Đảo Cát Bà | Đảo Phú Quốc | Đảo Côn Sơn | Đảo Lý Sơn | B
+Biên giới trên đất liền của Việt Nam tiếp giáp với 3 quốc gia láng giềng nào? | Trung Quốc, Lào, Thái Lan | Trung Quốc, Lào, Campuchia | Lào, Campuchia, Myanmar | Trung Quốc, Thái Lan, Campuchia | B
+Hệ thống sông Cửu Long khi chảy vào lãnh thổ Việt Nam chia thành hai nhánh chính là sông nào? | Sông Hồng và Sông Đà | Sông Tiền và Sông Hậu | Sông Đồng Nai và Sông Sài Gòn | Sông Vàm Cỏ Đông và Vàm Cỏ Tây | B
+Vịnh Hạ Long - Di sản thiên nhiên thế giới được UNESCO công nhận nhiều lần - thuộc tỉnh nào của Việt Nam? | Hải Phòng | Quảng Ninh | Ninh Bình | Thanh Hóa | B
+Châu lục nào có diện tích tự nhiên lớn nhất trên thế giới? | Châu Phi | Châu Mỹ | Châu Á | Châu Âu | C
+Quốc gia nào có diện tích lãnh thổ lớn nhất thế giới? | Canada | Trung Quốc | Hoa Kỳ | Liên bang Nga | D
+Cao nguyên đá Đồng Văn - Công viên địa chất toàn cầu UNESCO đầu tiên của Việt Nam - nằm ở tỉnh nào? | Cao Bằng | Hà Giang | Lạng Sơn | Bắc Kạn | B
+Hồ nước ngọt tự nhiên trên núi lớn nhất Việt Nam nằm ở tỉnh Bắc Kạn có tên là gì? | Hồ Tây | Hồ Ba Bể | Hồ Thác Bà | Hồ Tơ Nưng | B
+Đèo Hải Vân nằm trên ranh giới tự nhiên giữa hai tỉnh/thành phố nào của miền Trung Việt Nam? | Quảng Bình và Quảng Trị | Huế và Đà Nẵng | Đà Nẵng và Quảng Nam | Phú Yên và Khánh Hòa | B
+Thủ đô của đất nước Nhật Bản là thành phố nào? | Osaka | Kyoto | Tokyo | Yokohama | C
+Năm 938, vị anh hùng dân tộc nào đã lãnh đạo nhân dân ta đánh tan quân Nam Hán trên sông Bạch Đằng, chấm dứt hơn 1000 năm Bắc thuộc? | Đinh Bộ Lĩnh | Ngô Quyền | Lê Hoàn | Lý Thường Kiệt | B
+Năm 1010, vua Lý Thái Tổ đã ban Chiếu dời đô từ Hoa Lư (Ninh Bình) về Đại La và đổi tên kinh đô mới là gì? | Đông Đô | Phú Xuân | Thăng Long | Tây Đô | C
+Quốc hiệu đầu tiên của nhà nước sơ khai thời các Vua Hùng trong lịch sử Việt Nam là gì? | Âu Lạc | Văn Lang | Vạn Xuân | Đại Cồ Việt | B
+Năm 968, sau khi dẹp loạn 12 sứ quân, Đinh Bộ Lĩnh lên ngôi Hoàng đế và đặt quốc hiệu nước ta là gì? | Đại Việt | Đại Cồ Việt | Đại Nam | Vạn Xuân | B
+Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập khai sinh ra nước Việt Nam Dân chủ Cộng hòa tại Quảng trường Ba Đình vào ngày tháng năm nào? | 19/08/1945 | 02/09/1945 | 07/05/1954 | 30/04/1975 | B
+Chiến dịch Điện Biên Phủ 'lừng lẫy năm châu, chấn động địa cầu' kết thúc thắng lợi hoàn toàn vào ngày tháng năm nào? | 13/03/1954 | 30/04/1954 | 07/05/1954 | 20/07/1954 | C
+Trong cuộc kháng chiến chống quân xâm lược Nguyên - Mông thế kỷ XIII, quân dân nhà Trần đã mấy lần giành thắng lợi vẻ vang? | 2 lần | 3 lần | 4 lần | 5 lần | B
+Hội nghị Diên Hồng năm 1285 thời nhà Trần là hội nghị triệu tập những ai về kinh thành Thăng Long để hỏi ý kiến đánh giặc hay hòa? | Các tướng lĩnh quân đội | Các bô lão đại diện nhân dân cả nước | Các quan lại triều đình | Các nho sĩ đỗ đạt | B
+Vị hoàng đế anh minh nào đã lãnh đạo cuộc khởi nghĩa Lam Sơn đánh đuổi quân Minh và lập nên triều đại Hậu Lê vào năm 1428? | Lê Thánh Tông | Lê Lợi (Lê Thái Tổ) | Nguyễn Trãi | Quang Trung | B
+Tác phẩm 'Bình Ngô đại cáo' - bản tuyên ngôn độc lập thứ hai của dân tộc Việt Nam - do danh nhân nào soạn thảo thay lời Lê Lợi? | Lý Thường Kiệt | Trần Quốc Tuấn | Nguyễn Trãi | Nguyễn Bỉnh Khiêm | C
+Mùa xuân năm Kỷ Dậu (1789), Hoàng đế Quang Trung (Nguyễn Huệ) đã lãnh đạo nghĩa quân Tây Sơn đại phá 29 vạn quân xâm lược nào? | Quân Tống | Quân Minh | Quân Thanh | Quân Xiêm | C
+Trường đại học đầu tiên của Việt Nam được xây dựng vào năm 1076 dưới triều đại nhà Lý có tên là gì? | Quốc Tử Giám | Sùng Chính Viện | Quốc Sử Quán | Hàn Lâm Viện | A
+Bộ luật thành văn đầu tiên trong lịch sử phong kiến Việt Nam được ban hành năm 1042 dưới thời vua Lý Thái Tông có tên là gì? | Luật Hồng Đức | Hình thư | Hoàng Việt luật lệ | Quốc triều hình luật | B
+Đảng Cộng sản Việt Nam được thành lập vào ngày 03/02/1930 tại hội nghị hợp nhất các tổ chức cộng sản do Nguyễn Ái Quốc chủ trì ở đâu? | Quảng Châu (Trung Quốc) | Hương Cảng (Hồng Kông, Trung Quốc) | Pác Bó (Cao Bằng) | Tân Trào (Tuyên Quang) | B
+Sau gần 30 năm bôn ba tìm đường cứu nước, lãnh tụ Nguyễn Ái Quốc đã trở về Tổ quốc vào ngày 28/01/1941 tại Pác Bó thuộc tỉnh nào? | Lạng Sơn | Cao Bằng | Tuyên Quang | Thái Nguyên | B
+Chiến dịch lịch sử giải phóng hoàn toàn miền Nam, thống nhất đất nước vào ngày 30/04/1975 mang tên là gì? | Chiến dịch Tây Nguyên | Chiến dịch Huế - Đà Nẵng | Chiến dịch Hồ Chí Minh | Chiến dịch Đường 9 - Nam Lào | C
+Hai Bà Trưng phất cờ khởi nghĩa chống ách đô hộ của nhà Đông Hán vào năm 40 sau Công nguyên tại cửa sông nào? | Sông Bạch Đằng | Sông Hát (Hát Môn) | Sông Như Nguyệt | Sông Gianh | B
+Vị vua cuối cùng của triều đại phong kiến nhà Nguyễn trong lịch sử Việt Nam là ai? | Vua Hàm Nghi | Vua Duy Tân | Vua Khải Định | Vua Bảo Đại | D
+Hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam được ký kết chính thức vào tháng 1 năm nào? | Năm 1968 | Năm 1972 | Năm 1973 | Năm 1975 | C
+Theo Luật Doanh nghiệp 2020 của Việt Nam, Công ty cổ phần phải có số lượng cổ đông tối thiểu là bao nhiêu? | 1 cổ đông | 2 cổ đông | 3 cổ đông | 5 cổ đông | C
+Theo Luật Doanh nghiệp 2020, Công ty trách nhiệm hữu hạn hai thành viên trở lên có số lượng thành viên tối đa là bao nhiêu? | 20 thành viên | 30 thành viên | 50 thành viên | 100 thành viên | C
+Theo Luật Doanh nghiệp 2020, loại hình doanh nghiệp nào sau đây KHÔNG có tư cách pháp nhân? | Công ty cổ phần | Công ty TNHH một thành viên | Doanh nghiệp tư nhân | Công ty hợp danh | C
+Trong Công ty hợp danh theo quy định của pháp luật Việt Nam, thành viên hợp danh phải là đối tượng nào và chịu trách nhiệm như thế nào? | Tổ chức, chịu trách nhiệm hữu hạn | Cá nhân, chịu trách nhiệm bằng toàn bộ tài sản của mình về các nghĩa vụ của công ty | Cá nhân, chỉ chịu trách nhiệm trong phạm vi vốn góp | Bất kỳ cá nhân hoặc tổ chức nào | B
+Theo Luật Doanh nghiệp 2020, thời hạn để các thành viên/cổ đông sáng lập thanh toán đủ số vốn đã đăng ký góp khi thành lập doanh nghiệp là bao nhiêu ngày kể từ ngày được cấp Giấy chứng nhận đăng ký doanh nghiệp? | 30 ngày | 60 ngày | 90 ngày | 120 ngày | C
+Cơ quan có quyền quyết định cao nhất trong Công ty cổ phần theo Luật Doanh nghiệp Việt Nam là cơ quan nào? | Hội đồng quản trị | Đại hội đồng cổ đông | Ban kiểm soát | Tổng giám đốc | B
+Theo Luật Thuế giá trị gia tăng (GTGT) hiện hành tại Việt Nam, mức thuế suất phổ thông chuẩn áp dụng cho đa số hàng hóa, dịch vụ (khi không thuộc diện giảm thuế tạm thời) là bao nhiêu phần trăm? | 5% | 10% | 15% | 20% | B
+Theo Luật Thuế thu nhập doanh nghiệp của Việt Nam, mức thuế suất phổ thông áp dụng cho các doanh nghiệp thông thường là bao nhiêu phần trăm? | 10% | 15% | 20% | 25% | C
+Theo Luật Thương mại 2005 của Việt Nam, mức phạt vi phạm hợp đồng thương mại do các bên thỏa thuận không được vượt quá bao nhiêu phần trăm giá trị phần nghĩa vụ hợp đồng bị vi phạm (trừ trường hợp giám định)? | 5% | 8% | 12% | 20% | B
+Theo Luật Phá sản 2014 của Việt Nam, doanh nghiệp mất khả năng thanh toán là doanh nghiệp không thực hiện nghĩa vụ thanh toán khoản nợ trong thời hạn bao lâu kể từ ngày đến hạn thanh toán? | 01 tháng | 03 tháng | 06 tháng | 12 tháng | B
+Trong giải quyết tranh chấp kinh doanh thương mại, phán quyết của Trọng tài thương mại có đặc điểm pháp lý nào sau đây? | Có thể kháng cáo lên Trọng tài cấp cao | Có giá trị chung thẩm và có hiệu lực kể từ ngày ban hành | Chỉ mang tính chất tham khảo | Phải được Tòa án xét xử lại từ đầu | B
+Theo Bộ luật Dân sự 2015, giao dịch dân sự do người không có năng lực hành vi dân sự xác lập sẽ dẫn đến hậu quả pháp lý gì (trừ giao dịch phục vụ nhu cầu sinh hoạt hàng ngày)? | Vẫn có hiệu lực bình thường | Giao dịch dân sự vô hiệu | Chỉ bị phạt hành chính | Tự động chuyển sang hợp đồng lao động | B
+Theo Bộ luật Lao động 2019 của Việt Nam, thời gian thử việc tối đa đối với công việc cần trình độ chuyên môn, kỹ thuật từ cao đẳng trở lên (không phải người quản lý doanh nghiệp) là bao nhiêu ngày? | 06 ngày làm việc | 30 ngày | 60 ngày | 180 ngày | C
+Theo Luật Doanh nghiệp 2020, mỗi cá nhân chỉ được quyền thành lập tối đa bao nhiêu Doanh nghiệp tư nhân? | 01 doanh nghiệp tư nhân | 02 doanh nghiệp tư nhân | 03 doanh nghiệp tư nhân | Không giới hạn số lượng | A
+Cổ phần nào trong Công ty cổ phần là loại cổ phần bắt buộc phải có và không thể chuyển đổi thành cổ phần ưu đãi? | Cổ phần ưu đãi biểu quyết | Cổ phần ưu đãi cổ tức | Cổ phần phổ thông | Cổ phần ưu đãi hoàn lại | C
+Theo Luật Đầu tư của Việt Nam, hoạt động kinh doanh pháo nổ thuộc danh mục ngành nghề nào? | Ngành nghề đầu tư kinh doanh có điều kiện | Ngành nghề cấm đầu tư kinh doanh | Ngành nghề ưu đãi đầu tư | Ngành nghề tự do kinh doanh | B
+Theo Luật Sở hữu trí tuệ Việt Nam, Giấy chứng nhận đăng ký nhãn hiệu có hiệu lực trong vòng bao nhiêu năm kể từ ngày nộp đơn (và có thể gia hạn nhiều lần)? | 5 năm | 10 năm | 15 năm | 20 năm | B
+Trong hợp đồng mua bán hàng hóa, khoản tiền mà một bên giao cho bên kia trong một thời hạn để bảo đảm giao kết hoặc thực hiện hợp đồng được gọi là gì? | Cầm cố | Thế chấp | Đặt cọc | Bảo lãnh | C
+Danh y lỗi lạc Hải Thượng Lãn Ông - Đại danh y của nền Y học cổ truyền Việt Nam thế kỷ XVIII - có tên thật là gì? | Nguyễn Bá Tĩnh | Lê Hữu Trác | Chu Văn An | Nguyễn Bỉnh Khiêm | B
+Danh y Tuệ Tĩnh với câu nói bất hủ 'Nam dược trị Nam nhân' (Thuốc Nam chữa người Nam) có tên thật là gì? | Lê Hữu Trác | Nguyễn Bá Tĩnh | Lý Đạo Tái | Trần Nguyên Đán | B
+Bộ sách y học đồ sộ bậc nhất lịch sử Y học cổ truyền Việt Nam gồm 28 tập, 66 quyển do Hải Thượng Lãn Ông biên soạn có tên là gì? | Nam dược thần hiệu | Hải Thượng y tông tâm lĩnh | Bản thảo cương mục | Hoàng Đế nội kinh | B
+Trong phương pháp chẩn đoán của Y học cổ truyền, 'Tứ chẩn' bao gồm 4 kỹ thuật khám bệnh nào? | Vọng - Văn - Vấn - Thiết | Hàn - Nhiệt - Hư - Thực | Âm - Dương - Biểu - Lý | Khí - Huyết - Tinh - Thần | A
+Trong lý luận 'Bát cương' của Y học cổ truyền để quy nạp hội chứng bệnh, 8 cương lĩnh cơ bản bao gồm những cặp nào? | Âm - Dương, Biểu - Lý, Hàn - Nhiệt, Hư - Thực | Tâm - Can - Tỳ - Phế - Thận - Đởm - Vị - Bàng quang | Phong - Hàn - Thử - Thấp - Táo - Hỏa - Đàm - Ứ | Kim - Mộc - Thủy - Hỏa - Thổ - Khí - Huyết - Tân | A
+Theo học thuyết Tạng Tượng và Ngũ Hành trong Y học cổ truyền, 'Ngũ tạng' bao gồm 5 tạng chính nào? | Tâm, Can, Tỳ, Phế, Thận | Đởm, Vị, Tiểu trường, Đại trường, Bàng quang | Tâm, Phế, Vị, Đởm, Tam tiêu | Can, Đởm, Tỳ, Vị, Thận | A
+Trong học thuyết Ngũ Hành ứng dụng vào Y học cổ truyền, tạng Can (Gan) thuộc hành nào và khai khiếu ra đâu? | Hành Hỏa, khai khiếu ra lưỡi | Hành Mộc, khai khiếu ra mắt | Hành Thổ, khai khiếu ra miệng | Hành Thủy, khai khiếu ra tai | B
+Theo Y học cổ truyền, tạng Thận thuộc hành Thủy và chủ về chức năng cốt lõi nào sau đây? | Chủ huyết mạch và tàng thần | Chủ tàng tinh, chủ cốt tủy và nạp khí | Chủ vận hóa đồ ăn thức uống | Chủ tuyên phát và túc giáng | B
+Trong Y học cổ truyền, vị thuốc 'Cam thảo' nổi tiếng thường đóng vai trò là vị 'Sứ' trong các phương thuốc vì có tác dụng đặc trưng nào? | Phát hãn giải biểu cực mạnh | Điều hòa các vị thuốc, bổ tỳ ích khí, thanh nhiệt giải độc | Chỉ dùng để sát trùng ngoài da | Gây ngủ mạnh | B
+Huyệt 'Hợp Cốc' - một trong những huyệt vị thông dụng nhất để giảm đau đầu, đau răng và giải cảm - nằm ở vị trí nào trên cơ thể? | Ở chính giữa đỉnh đầu | Ở mu bàn tay, giữa xương bàn ngón cái (I) và ngón trỏ (II) | Ở dưới mắt cá chân trong | Ở giữa rốn | B
+Huyệt 'Túc Tam Lý' - huyệt vị nổi tiếng về kiện tỳ vị và nâng cao sức đề kháng - nằm ở vùng nào trên cơ thể? | Mặt trước cẳng chân, dưới hõm ngoài xương bánh chè 3 thốn | Giữa hai đầu lông mày | Phía sau gáy sát hộp sọ | Ở cổ tay phía ngón út | A
+Huyệt 'Bách Hội' - nơi hội tụ của các kinh dương trên cơ thể - nằm ở vị trí giải phẫu nào? | Lòng bàn chân | Chính giữa đỉnh đầu (giao điểm đường nối hai đỉnh vành tai và đường dọc giữa đầu) | Giữa ngực ngang hai núm vú | Dưới rốn 3 thốn | B
+Trong dược học cổ truyền, 'Tứ khí' (Tứ tính) của các vị thuốc dùng để chỉ 4 tính chất nào? | Chua, Cay, Mặn, Ngọt | Hàn (lạnh), Nhiệt (nóng), Ôn (ấm), Lương (mát) | Thăng, Giáng, Phù, Trầm | Bổ, Tả, Hòa, Giải | B
+Trong dược học cổ truyền, 'Ngũ vị' của thuốc bao gồm 5 vị cơ bản nào? | Tân (cay), Cam (ngọt), Toan (chua), Khổ (đắng), Hàm (mặn) | Cay, Ngọt, Đắng, Chát, Bùi | Chua, Cay, Nóng, Lạnh, Nhạt | Mặn, Ngọt, Thơm, Đắng, Nồng | A
+Bài thuốc cổ phương nổi tiếng 'Tứ quân tử thang' (gồm Nhân sâm/Đảng sâm, Bạch truật, Phục linh, Cam thảo) có công dụng chính là gì? | Bổ huyết điều kinh | Ích khí kiện tỳ (bổ khí) | Thanh nhiệt tả hỏa | Khu phong trừ thấp | B
+Bài thuốc cổ phương 'Tứ vật thang' (gồm Thục địa, Đương quy, Bạch thược, Xuyên khung) là phương thuốc cơ bản hàng đầu dùng để điều trị chứng gì? | Bổ huyết và điều huyết (chứng huyết hư, huyết ứ) | Giải cảm phong hàn | Tiêu thực đạo trệ | Lợi thủy thẩm thấp | A
+Theo nguyên lý 'Lục dâm' (6 thứ tà khí bên ngoài gây bệnh) trong Y học cổ truyền, 6 yếu tố khí hậu đó là gì? | Phong, Hàn, Thử, Thấp, Táo, Hỏa | Hỷ, Nộ, Ưu, Tư, Bi, Khủng | Kim, Mộc, Thủy, Hỏa, Thổ, Khí | Kinh, Khiếp, Buồn, Vui, Giận, Lo | A
+Phương pháp chữa bệnh dùng sức nóng của ngải cứu (mồi ngải hoặc điếu ngải) tác động lên các huyệt vị trong Y học cổ truyền được gọi là gì? | Châm (Châm kim) | Cứu (Cứu ngải) | Bấm huyệt | Giác hơi | B

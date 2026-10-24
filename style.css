@@ -1,0 +1,559 @@
+/* ================================================================
+   AI LÀ TRIỆU PHÚ — style.css
+   Tông: xanh dương đậm / tím than + viền vàng kim + glow nhẹ
+================================================================ */
+
+/* ── RESET & BASE ─────────────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  /* Màu chủ đạo */
+  --bg-deep:     #050a1e;   /* nền tổng thể */
+  --bg-panel:    #0d1535;   /* nền panel / section */
+  --bg-card:     #111b42;   /* nền card / ô đáp án */
+  --bg-hover:    #1a2a5e;   /* hover state */
+
+  /* Vàng kim */
+  --gold:        #f5c518;
+  --gold-dim:    #c49a10;
+  --gold-glow:   rgba(245, 197, 24, 0.35);
+
+  /* Tím nhấn */
+  --accent:      #7b4fff;
+  --accent-dim:  #5a38cc;
+
+  /* Đỏ / cảnh báo */
+  --danger:      #e63946;
+  --danger-dim:  #b02030;
+
+  /* Xanh thành công */
+  --success:     #2ecc71;
+
+  /* Chữ */
+  --text-main:   #ffffff;
+  --text-muted:  #8fa3d0;
+
+  /* Viền */
+  --border:      rgba(245, 197, 24, 0.4);
+
+  /* Bo góc */
+  --radius-sm:   8px;
+  --radius-md:   16px;
+  --radius-lg:   28px;
+  --radius-xl:   40px;
+
+  /* Transition */
+  --ease:        0.22s ease;
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: 'Segoe UI', system-ui, sans-serif;
+  background: var(--bg-deep);
+  color: var(--text-main);
+  min-height: 100vh;
+  line-height: 1.5;
+}
+
+/* ── LAYOUT CHÍNH ─────────────────────────────────────────────── */
+.container {
+  display: flex;
+  gap: 16px;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 16px;
+  min-height: 100vh;
+}
+
+.col-main {
+  flex: 3;          /* ~75% */
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  min-width: 0;
+}
+
+.col-side {
+  flex: 1;          /* ~25% */
+  min-width: 200px;
+}
+
+/* ── SECTION CHUNG ────────────────────────────────────────────── */
+.section {
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 18px 22px;
+  box-shadow: 0 0 18px var(--gold-glow);
+}
+
+/* ── HEADER SECTION ───────────────────────────────────────────── */
+.game-title {
+  text-align: center;
+  font-size: clamp(1.5rem, 4vw, 2.4rem);
+  font-weight: 900;
+  letter-spacing: 0.08em;
+  color: var(--gold);
+  text-shadow: 0 0 18px var(--gold-glow), 0 2px 4px #000;
+  margin-bottom: 18px;
+}
+
+.header-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 14px;
+}
+
+/* Upload group */
+.upload-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.upload-hint {
+  color: var(--text-muted);
+  font-size: 0.82rem;
+  max-width: 180px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Action buttons */
+.action-buttons {
+  display: flex;
+  gap: 10px;
+}
+
+/* Prize fund */
+.prize-fund {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-left: auto;
+  background: rgba(245, 197, 24, 0.08);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  padding: 8px 14px;
+}
+
+.prize-label {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.prize-amount {
+  color: var(--gold);
+  font-weight: 800;
+  font-size: 1.05rem;
+  white-space: nowrap;
+}
+
+/* ── BUTTONS ──────────────────────────────────────────────────── */
+.btn {
+  cursor: pointer;
+  border: none;
+  border-radius: var(--radius-sm);
+  padding: 9px 18px;
+  font-size: 0.9rem;
+  font-weight: 700;
+  transition: background var(--ease), transform var(--ease), box-shadow var(--ease);
+  white-space: nowrap;
+  letter-spacing: 0.03em;
+}
+
+.btn:active { transform: scale(0.96); }
+
+.btn-primary {
+  background: var(--accent);
+  color: #fff;
+}
+.btn-primary:hover { background: var(--accent-dim); box-shadow: 0 0 12px rgba(123,79,255,0.5); }
+
+.btn-secondary {
+  background: var(--bg-card);
+  color: var(--text-main);
+  border: 1px solid var(--border);
+}
+.btn-secondary:hover { background: var(--bg-hover); }
+
+.btn-gold {
+  background: var(--gold);
+  color: #0d0d0d;
+}
+.btn-gold:hover { background: var(--gold-dim); box-shadow: 0 0 14px var(--gold-glow); }
+
+.btn-danger {
+  background: var(--danger);
+  color: #fff;
+  border-radius: var(--radius-sm);
+  padding: 10px 22px;
+  font-size: 0.92rem;
+}
+.btn-danger:hover { background: var(--danger-dim); box-shadow: 0 0 12px rgba(230,57,70,0.45); }
+
+/* ── STAGE SECTION ────────────────────────────────────────────── */
+.stage-section { text-align: center; }
+
+/* Thông tin câu + mức thưởng */
+.stage-info {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 18px;
+}
+
+.stage-badge {
+  background: var(--accent);
+  color: #fff;
+  font-weight: 800;
+  font-size: 1rem;
+  padding: 5px 18px;
+  border-radius: var(--radius-xl);
+  letter-spacing: 0.05em;
+}
+
+.stage-prize {
+  color: var(--gold);
+  font-weight: 900;
+  font-size: 1.2rem;
+  text-shadow: 0 0 10px var(--gold-glow);
+}
+
+/* Hộp câu hỏi — bo góc lớn + viền vàng */
+.question-box {
+  background: var(--bg-card);
+  border: 2px solid var(--gold);
+  border-radius: var(--radius-xl);
+  padding: 28px 36px;
+  font-size: clamp(1rem, 2.5vw, 1.25rem);
+  font-weight: 600;
+  color: var(--text-main);
+  box-shadow: 0 0 24px var(--gold-glow), inset 0 0 30px rgba(245,197,24,0.04);
+  line-height: 1.6;
+  margin-bottom: 24px;
+  min-height: 110px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Lưới 4 đáp án — 2×2 */
+.answers-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+
+.answer-btn {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: var(--bg-card);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 14px 20px;
+  cursor: pointer;
+  transition: background var(--ease), border-color var(--ease), box-shadow var(--ease), transform var(--ease);
+  text-align: left;
+  color: var(--text-main);
+}
+
+.answer-btn:hover:not(:disabled) {
+  background: var(--bg-hover);
+  border-color: var(--gold);
+  box-shadow: 0 0 14px var(--gold-glow);
+  transform: translateY(-2px);
+}
+
+.answer-btn:disabled { opacity: 0.4; cursor: not-allowed; transform: none; }
+
+.ans-label {
+  background: var(--gold);
+  color: #000;
+  font-weight: 900;
+  font-size: 0.95rem;
+  min-width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.ans-text {
+  font-size: 0.97rem;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+/* Trạng thái đáp án */
+.answer-btn.correct {
+  background: rgba(46, 204, 113, 0.2);
+  border-color: var(--success);
+  box-shadow: 0 0 16px rgba(46,204,113,0.4);
+}
+
+.answer-btn.wrong {
+  background: rgba(230, 57, 70, 0.2);
+  border-color: var(--danger);
+}
+
+.answer-btn.hidden { visibility: hidden; } /* dùng cho 50:50 */
+
+.answer-btn.selecting {
+  border-color: #ff9900;
+  box-shadow: 0 0 16px rgba(255, 153, 0, 0.5);
+}
+
+/* ── LIFELINE SECTION ─────────────────────────────────────────── */
+.lifeline-section {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 14px;
+}
+
+.lifelines {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  flex: 1;
+}
+
+.lifeline-btn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  background: var(--bg-card);
+  border: 1.5px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 10px 18px;
+  cursor: pointer;
+  color: var(--text-main);
+  font-size: 0.85rem;
+  font-weight: 700;
+  transition: background var(--ease), border-color var(--ease), box-shadow var(--ease), transform var(--ease);
+  min-width: 90px;
+}
+
+.lifeline-btn:hover:not(:disabled) {
+  background: var(--bg-hover);
+  border-color: var(--gold);
+  box-shadow: 0 0 12px var(--gold-glow);
+  transform: translateY(-2px);
+}
+
+.lifeline-btn:disabled { opacity: 0.35; cursor: not-allowed; transform: none; }
+
+.ll-icon {
+  font-size: 1.4rem;
+  line-height: 1;
+}
+
+.ll-text { font-size: 0.75rem; text-align: center; }
+
+/* ── THANG TIỀN THƯỞNG (CỘT PHẢI) ────────────────────────────── */
+.prize-ladder {
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  box-shadow: 0 0 18px var(--gold-glow);
+  padding: 16px 12px;
+  position: sticky;
+  top: 16px;
+}
+
+.ladder-title {
+  text-align: center;
+  font-size: 0.95rem;
+  font-weight: 800;
+  color: var(--gold);
+  letter-spacing: 0.06em;
+  margin-bottom: 12px;
+  text-transform: uppercase;
+}
+
+.ladder-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.ladder-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 7px 12px;
+  border-radius: var(--radius-sm);
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  background: var(--bg-card);
+  border: 1px solid transparent;
+  transition: background var(--ease), border-color var(--ease), color var(--ease);
+  gap: 4px;
+}
+
+.ladder-item strong {
+  color: var(--text-main);
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+/* Mốc quan trọng (câu 5, 10, 15) */
+.ladder-item.milestone {
+  border-color: var(--gold);
+  color: var(--gold);
+  font-weight: 700;
+  background: rgba(245, 197, 24, 0.1);
+}
+
+.ladder-item.milestone strong { color: var(--gold); }
+
+/* Câu đang chơi (JS sẽ thêm class .active) */
+.ladder-item.active {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+}
+
+.ladder-item.active strong { color: #fff; }
+
+/* Câu đã qua (JS sẽ thêm class .passed) */
+.ladder-item.passed {
+  opacity: 0.45;
+}
+
+/* ── MODALS ───────────────────────────────────────────────────── */
+.modal-overlay {
+  display: none;           /* ẩn mặc định */
+  position: fixed;
+  inset: 0;
+  background: rgba(5, 10, 30, 0.85);
+  backdrop-filter: blur(4px);
+  z-index: 1000;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Khi JS thêm class .open → hiện */
+.modal-overlay.open {
+  display: flex;
+}
+
+.modal {
+  background: var(--bg-panel);
+  border: 2px solid var(--gold);
+  border-radius: var(--radius-md);
+  box-shadow: 0 0 40px var(--gold-glow);
+  padding: 36px 40px;
+  max-width: 480px;
+  width: 90%;
+  text-align: center;
+  animation: modal-pop 0.25s ease;
+}
+
+@keyframes modal-pop {
+  from { opacity: 0; transform: scale(0.88); }
+  to   { opacity: 1; transform: scale(1); }
+}
+
+.modal--reward { border-color: var(--gold); }
+
+.modal-trophy {
+  font-size: 4rem;
+  margin-bottom: 12px;
+  filter: drop-shadow(0 0 12px var(--gold-glow));
+}
+
+.modal-title {
+  font-size: 1.5rem;
+  font-weight: 900;
+  color: var(--gold);
+  margin-bottom: 14px;
+}
+
+.modal-body {
+  color: var(--text-main);
+  font-size: 1.05rem;
+  line-height: 1.7;
+  margin-bottom: 24px;
+}
+
+.modal-body strong { color: var(--gold); font-size: 1.2em; }
+
+.modal-close { min-width: 120px; }
+
+/* ── RESPONSIVE ───────────────────────────────────────────────── */
+@media (max-width: 768px) {
+  .container {
+    flex-direction: column;
+    padding: 10px;
+    gap: 10px;
+  }
+
+  .col-side {
+    min-width: unset;
+    order: -1;          /* thang thưởng lên trên trên mobile */
+  }
+
+  .prize-ladder {
+    position: static;
+  }
+
+  .ladder-list {
+    /* hiện ngang trên mobile */
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+
+  .ladder-item {
+    flex: 1 0 auto;
+    min-width: 70px;
+    font-size: 0.72rem;
+    padding: 5px 8px;
+    flex-direction: column;
+    text-align: center;
+    gap: 2px;
+  }
+
+  .header-controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .prize-fund { margin-left: 0; }
+
+  .answers-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .lifeline-section {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .lifelines { justify-content: center; }
+
+  .btn-danger { width: 100%; }
+}
+
+@media (max-width: 480px) {
+  .question-box { padding: 20px 18px; font-size: 0.95rem; }
+  .game-title   { font-size: 1.3rem; }
+}
